@@ -21,7 +21,7 @@
 </div> -->
  <p></p>
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@akarise19xx">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" width="150px"/>
   </a>
 </div>
