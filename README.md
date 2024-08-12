@@ -6,6 +6,10 @@
 </div>
 <div>
   <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/django.svg" title="Django" **alt="Django" width="50" height="50"/>
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" **alt="MySQL" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
 </div>
 <div>
