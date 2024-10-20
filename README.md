@@ -2,6 +2,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="50" height="50"/>
 </div>
 <div>
   <img src="https://github.com/nkhaldi/nkhaldi/blob/main/custom_logos/django.svg" title="Django" **alt="Django" width="50" height="50"/>
