@@ -1,17 +1,7 @@
-## 🛠️ Tools:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="50" height="50"/>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" **alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/>
-</div>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" **alt="Android Studio" width="50" height="50"/>
-</div>
+🌱  Focused on **Java/Kotlin** and **Android Engineering**.
+
+---------------------------------------------------------------
+
+### 🛠️ **Tech Stack**:
+![kotlin](https://img.shields.io/badge/-kotlin-b91ee8?style=flat&logo=kotlin&logoColor=white)  ![Java](https://img.shields.io/badge/Java-e62027?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
